@@ -1,35 +1,20 @@
-name: Auto Fetch FanCode Matches
-
+name: Auto Update Matches
 on:
   schedule:
-    - cron: '*/30 * * * *' # Har 30 minute baad auto chalega
-  workflow_dispatch: # GitHub par ek button banayega jisse aap manual bhi chala sakein
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
-
-      - name: Run Fetcher Script
-        run: |
-          python fetch_matches.py
-
-      - name: Commit and Push JSON
-        run: |
-          git config --global user.name "Auto-Bot"
-          git config --global user.email "bot@darteve.in"
-          git add live_matches.json
-          git commit -m "Auto-updated matches" || echo "No new matches to update"
+      - uses: actions/checkout@v3
+      - src: actions/setup-python@v4
+        with: { python-version: '3.10' }
+      - run: pip install -r requirements.txt
+      - run: python fetch_group_a.py # Group B mein fetch_group_b.py karein
+      - run: |
+          git config --global user.name "DarTeve-Bot"
+          git add .
+          git commit -m "Auto Update" || exit 0
           git push
