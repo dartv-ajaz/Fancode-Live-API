@@ -1,31 +1,45 @@
 import requests
 import json
 
-# Source URL jahan se data lana hai
+# Source URL
 SOURCE_URL = "https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/data.json"
 FILE_NAME = "live_matches.json"
 
-def fetch_and_save():
+def fetch_data():
     try:
-        response = requests.get(SOURCE_URL)
-        if response.status_code == 200:
-            data = response.json()
-            # Sirf 'LIVE' matches filter karne ke liye (taki API clean rahe)
-            live_only = [m for m in data.get("matches", []) if m.get("status") == "LIVE"]
+        print("Fetching data from FanCode source...")
+        response = requests.get(SOURCE_URL, timeout=20)
+        response.raise_for_status()
+        
+        data = response.json()
+        all_matches = data.get("matches", [])
+        
+        # 1. LIVE matches ko alag karein
+        live_matches = [m for m in all_matches if str(m.get("status")).upper() == "LIVE"]
+        
+        # 2. UPCOMING matches ko alag karein (taake app khali na rahe)
+        upcoming_matches = [m for m in all_matches if str(m.get("status")).upper() == "UPCOMING"]
+        
+        # Final list: Pehle LIVE dikhayein, phir UPCOMING
+        final_list = live_matches + upcoming_matches
+        
+        output = {
+            "success": True,
+            "status": "Online",
+            "last_update": data.get("last update time"),
+            "live_count": len(live_matches),
+            "upcoming_count": len(upcoming_matches),
+            "matches": final_list
+        }
+        
+        with open(FILE_NAME, "w", encoding="utf-8") as f:
+            json.dump(output, f, indent=4)
             
-            output = {
-                "success": True,
-                "last_update": data.get("last update time"),
-                "matches": live_only
-            }
-            
-            with open(FILE_NAME, "w", encoding="utf-8") as f:
-                json.dump(output, f, indent=4)
-            print("✅ Data updated successfully!")
-        else:
-            print("❌ Source se data nahi mila.")
+        print(f"✅ Done! Found {len(live_matches)} Live and {len(upcoming_matches)} Upcoming matches.")
+        print(f"📂 File saved as {FILE_NAME}")
+
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"❌ Error logic mein hai: {e}")
 
 if __name__ == "__main__":
-    fetch_and_save()
+    fetch_data()
