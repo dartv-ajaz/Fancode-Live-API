@@ -1,45 +1,42 @@
 import requests
 import json
+import os
 
-# Source URL
-SOURCE_URL = "https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/data.json"
+SOURCE_URL = "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json"
 FILE_NAME = "live_matches.json"
 
-def fetch_data():
+def fetch_drm_data():
+    print("--- Step 1: Source Se Connect Ho Raha Hai ---")
     try:
-        print("Fetching data from FanCode source...")
-        response = requests.get(SOURCE_URL, timeout=20)
-        response.raise_for_status()
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        response = requests.get(SOURCE_URL, headers=headers, timeout=15)
         
-        data = response.json()
-        all_matches = data.get("matches", [])
-        
-        # 1. LIVE matches ko alag karein
-        live_matches = [m for m in all_matches if str(m.get("status")).upper() == "LIVE"]
-        
-        # 2. UPCOMING matches ko alag karein (taake app khali na rahe)
-        upcoming_matches = [m for m in all_matches if str(m.get("status")).upper() == "UPCOMING"]
-        
-        # Final list: Pehle LIVE dikhayein, phir UPCOMING
-        final_list = live_matches + upcoming_matches
-        
-        output = {
-            "success": True,
-            "status": "Online",
-            "last_update": data.get("last update time"),
-            "live_count": len(live_matches),
-            "upcoming_count": len(upcoming_matches),
-            "matches": final_list
-        }
-        
-        with open(FILE_NAME, "w", encoding="utf-8") as f:
-            json.dump(output, f, indent=4)
+        if response.status_code == 200:
+            print("✅ Connection Successful!")
+            data = response.json()
             
-        print(f"✅ Done! Found {len(live_matches)} Live and {len(upcoming_matches)} Upcoming matches.")
-        print(f"📂 File saved as {FILE_NAME}")
+            # --- CHANNELS COUNT KARNE KA LOGIC ---
+            if isinstance(data, list):
+                total_channels = len(data)
+            elif isinstance(data, dict) and "matches" in data:
+                total_channels = len(data["matches"])
+            else:
+                total_channels = "Unknown"
+                
+            print(f"📺 Total Channels/Matches Fetch Hue: {total_channels}")
+            # -------------------------------------
+            
+            print("--- Step 2: File Create Ho Rahi Hai ---")
+            with open(FILE_NAME, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=4)
+            
+            if os.path.exists(FILE_NAME):
+                print(f"✅ SUCCESS! Data '{FILE_NAME}' mein save ho gaya hai.")
+        else:
+            print(f"❌ Error: Status Code {response.status_code}")
 
     except Exception as e:
-        print(f"❌ Error logic mein hai: {e}")
+        print(f"❌ ERROR: {str(e)}")
 
 if __name__ == "__main__":
-    fetch_data()
+    fetch_drm_data()
