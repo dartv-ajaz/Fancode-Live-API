@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:22:18 AM 27-02-2026",
+    "last update time": "03:13:25 AM 27-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al-Riyadh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-web.jpg",
-            "team_1": "Al-Riyadh SC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Riyadh SC vs Al-Ahli Saudi FC",
-            "match_id": 140701,
-            "startTime": "12:30:00 AM 27-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
@@ -100,6 +86,20 @@
             "startTime": "11:30:00 PM 26-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140763_english_hls_2d6f03ab0c66348_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140763_english_hls_2d6f03ab0c66348_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Riyadh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-web.jpg",
+            "team_1": "Al-Riyadh SC",
+            "team_2": "Al-Ahli Saudi FC",
+            "status": "LIVE",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Riyadh SC vs Al-Ahli Saudi FC",
+            "match_id": 140701,
+            "startTime": "12:30:00 AM 27-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -198,6 +198,18 @@
             "startTime": "07:30:00 PM 27-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140689_5968_VDS_VDCC_FC-Web.jpg",
+            "team_1": "Vredenburg/Saldanha CC",
+            "team_2": "Van der Stel Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club",
+            "match_id": 140689,
+            "startTime": "10:00:00 PM 27-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Philadelphia Union vs Defense Force (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140389_5954_PU_DEF_FC-Web.jpg",
@@ -220,18 +232,6 @@
             "match_name": "Melbourne Victory vs Adelaide United",
             "match_id": 139418,
             "startTime": "02:05:00 PM 27-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140689_5968_VDS_VDCC_FC-Web.jpg",
-            "team_1": "Vredenburg/Saldanha CC",
-            "team_2": "Van der Stel Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club",
-            "match_id": 140689,
-            "startTime": "10:00:00 PM 27-02-2026"
         },
         {
             "event_category": "Football",
@@ -414,6 +414,18 @@
             "startTime": "06:30:00 PM 27-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Thailand Open Men's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Thailand Open Men's T20I Series 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 140675,
+            "startTime": "07:30:00 AM 28-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
@@ -439,18 +451,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Thailand Open Men's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Thailand Open Men's T20I Series 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 140675,
-            "startTime": "07:30:00 AM 28-02-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Hong Kong, China vs Kuwait (Men's T20I Series 2026)",
             "src": "https://images.fancode.com/aig/match/v1771899776744/140881_CASACARDS_APP.png",
             "team_1": "Hong Kong, China",
@@ -460,6 +460,18 @@
             "match_name": "Hong Kong, China vs Kuwait",
             "match_id": 140881,
             "startTime": "10:45:00 AM 28-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Melbourne City (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139419_5802_AFC_MLC_1770724032867.png",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland vs Melbourne City",
+            "match_id": 139419,
+            "startTime": "09:30:00 AM 28-02-2026"
         }
     ]
 }
