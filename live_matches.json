@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:24:44 AM 10-03-2026",
+    "last update time": "03:25:24 AM 10-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "01:30:00 AM 10-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131096_english_hls_2958fcaa1849365_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131096_english_hls_2958fcaa1849365_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Almer\u00eda vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1772160982886/140828_CASACARDS_APP.png",
-            "team_1": "Almer\u00eda",
-            "team_2": "Cultural Leonesa",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Almer\u00eda vs Cultural Leonesa",
-            "match_id": 140828,
-            "startTime": "01:00:00 AM 10-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140828_english_hls_2d0df7a8a559210_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140828_english_hls_2d0df7a8a559210_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -385,18 +371,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-            "team_1": "England Lions",
-            "team_2": "Pakistan Shaheens",
-            "status": "UPCOMING",
-            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-            "match_name": "England Lions vs Pakistan Shaheens",
-            "match_id": 140668,
-            "startTime": "11:30:00 AM 09-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "SPJ Cargo vs MHKL Banaras (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
             "team_1": "SPJ Cargo",
@@ -406,6 +380,42 @@
             "match_name": "SPJ Cargo vs MHKL Banaras",
             "match_id": 141263,
             "startTime": "09:30:00 AM 11-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bengal Royals vs Mumbai Maverics (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Bengal Royals",
+            "team_2": "Mumbai Maverics",
+            "status": "UPCOMING",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Bengal Royals vs Mumbai Maverics",
+            "match_id": 141187,
+            "startTime": "10:10:00 AM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
+            "team_1": "Los Angeles Football Club",
+            "team_2": "Alajuelense",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Los Angeles Football Club vs Alajuelense",
+            "match_id": 141095,
+            "startTime": "08:30:00 AM 11-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+            "team_1": "England Lions",
+            "team_2": "Pakistan Shaheens",
+            "status": "UPCOMING",
+            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+            "match_name": "England Lions vs Pakistan Shaheens",
+            "match_id": 140668,
+            "startTime": "11:30:00 AM 09-03-2026"
         },
         {
             "event_category": "Football",
@@ -433,27 +443,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bengal Royals vs Mumbai Maverics (Thunderbolt T10 League 2026)",
+            "title": "Delhi Champions vs Gujarat Tigers (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Bengal Royals",
-            "team_2": "Mumbai Maverics",
+            "team_1": "Delhi Champions",
+            "team_2": "Gujarat Tigers",
             "status": "UPCOMING",
             "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Bengal Royals vs Mumbai Maverics",
-            "match_id": 141187,
-            "startTime": "10:10:00 AM 11-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
-            "team_1": "Los Angeles Football Club",
-            "team_2": "Alajuelense",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Football Club vs Alajuelense",
-            "match_id": 141095,
-            "startTime": "08:30:00 AM 11-03-2026"
+            "match_name": "Delhi Champions vs Gujarat Tigers",
+            "match_id": 141188,
+            "startTime": "12:45:00 PM 11-03-2026"
         },
         {
             "event_category": "Football",
