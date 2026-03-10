@@ -1,35 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:13:49 PM 10-03-2026",
+    "last update time": "08:05:34 PM 10-03-2026",
     "matches": [
         {
-            "event_category": "Cricket",
-            "title": "Chennai Warlords vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Chennai Warlords",
-            "team_2": "Tamil Nadu Titans",
-            "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Chennai Warlords vs Tamil Nadu Titans",
-            "match_id": 141186,
-            "startTime": "03:10:00 PM 10-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141186_english_hls_11743afe4324773_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141186_english_hls_11743afe4324773_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
-            "title": "Machida Zelvia vs Gangwon (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140856_5647_MZ_GW_FC-Web_1772186975986.png",
-            "team_1": "Machida Zelvia",
-            "team_2": "Gangwon",
+            "title": "Buriram United vs Melbourne City (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140857_5647_BU_MLC_FC-Web_1772186976696.png",
+            "team_1": "Buriram United",
+            "team_2": "Melbourne City",
             "status": "LIVE",
             "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Machida Zelvia vs Gangwon",
-            "match_id": 140856,
-            "startTime": "03:30:00 PM 10-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/index.m3u8"
+            "match_name": "Buriram United vs Melbourne City",
+            "match_id": 140857,
+            "startTime": "05:45:00 PM 10-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140857_english_hls_215870cfbc619_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140857_english_hls_215870cfbc619_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -44,16 +30,16 @@
             "startTime": "03:30:00 AM 11-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Buriram United vs Melbourne City (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140857_5647_BU_MLC_FC-Web_1772186976696.png",
-            "team_1": "Buriram United",
-            "team_2": "Melbourne City",
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Pakistan",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Buriram United vs Melbourne City",
-            "match_id": 140857,
-            "startTime": "05:45:00 PM 10-03-2026"
+            "event_name": "Pakistan tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs Pakistan",
+            "match_id": 141406,
+            "startTime": "01:45:00 PM 11-03-2026"
         },
         {
             "event_category": "Football",
@@ -78,6 +64,18 @@
             "match_name": "Tasmania vs New South Wales",
             "match_id": 133949,
             "startTime": "08:35:00 AM 11-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mumbai Spartans vs India Captains (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141305_6002_MSP_ICN_FC-Web.jpg",
+            "team_1": "Mumbai Spartans",
+            "team_2": "India Captains",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Mumbai Spartans vs India Captains",
+            "match_id": 141305,
+            "startTime": "06:30:00 PM 11-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -128,18 +126,6 @@
             "startTime": "12:45:00 PM 11-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Philadelphia Union vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141093_5954_PU_AME_1772957308825.png",
-            "team_1": "Philadelphia Union",
-            "team_2": "Club Am\u00e9rica",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Philadelphia Union vs Club Am\u00e9rica",
-            "match_id": 141093,
-            "startTime": "04:30:00 AM 11-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "CAG Delhi vs NCC Odisha (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
@@ -153,15 +139,51 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mumbai Spartans vs India Captains (Legends League Cricket, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1773065749571/141305_CASACARDS_APP.png",
-            "team_1": "Mumbai Spartans",
-            "team_2": "India Captains",
+            "title": "Rajasthan Emperors vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Rajasthan Emperors",
+            "team_2": "Tamil Nadu Titans",
             "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Mumbai Spartans vs India Captains",
-            "match_id": 141305,
-            "startTime": "06:30:00 PM 11-03-2026"
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Rajasthan Emperors vs Tamil Nadu Titans",
+            "match_id": 141189,
+            "startTime": "03:10:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Philadelphia Union vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141093_5954_PU_AME_1772957308825.png",
+            "team_1": "Philadelphia Union",
+            "team_2": "Club Am\u00e9rica",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Philadelphia Union vs Club Am\u00e9rica",
+            "match_id": 141093,
+            "startTime": "04:30:00 AM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim",
+            "match_id": 140861,
+            "startTime": "03:30:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
+            "team_1": "Vissel Kobe",
+            "team_2": "Seoul",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Vissel Kobe vs Seoul",
+            "match_id": 140860,
+            "startTime": "03:30:00 PM 11-03-2026"
         },
         {
             "event_category": "Football",
@@ -189,42 +211,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rajasthan Emperors vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Rajasthan Emperors",
-            "team_2": "Tamil Nadu Titans",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Rajasthan Emperors vs Tamil Nadu Titans",
-            "match_id": 141189,
-            "startTime": "03:10:00 PM 11-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Johor Darul Ta'zim",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim",
-            "match_id": 140861,
-            "startTime": "03:30:00 PM 11-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
-            "team_1": "Vissel Kobe",
-            "team_2": "Seoul",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Vissel Kobe vs Seoul",
-            "match_id": 140860,
-            "startTime": "03:30:00 PM 11-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Suriname vs Cayman Islands (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140709_5971_SRN_CAY_fc-Web.jpg",
             "team_1": "Suriname",
@@ -234,6 +220,18 @@
             "match_name": "Suriname vs Cayman Islands",
             "match_id": 140709,
             "startTime": "08:00:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Ratchaburi vs Gamba Osaka (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Ratchaburi",
+            "team_2": "Gamba Osaka",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Ratchaburi vs Gamba Osaka",
+            "match_id": 140867,
+            "startTime": "05:45:00 PM 11-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -296,16 +294,28 @@
             "startTime": "01:30:00 AM 11-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Ratchaburi vs Gamba Osaka (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Ratchaburi",
-            "team_2": "Gamba Osaka",
+            "event_category": "Cricket",
+            "title": "Argentina vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140710_5971_ARG_MEX_fc-Web.jpg",
+            "team_1": "Argentina",
+            "team_2": "Mexico",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Ratchaburi vs Gamba Osaka",
-            "match_id": 140867,
-            "startTime": "05:45:00 PM 11-03-2026"
+            "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+            "match_name": "Argentina vs Mexico",
+            "match_id": 140710,
+            "startTime": "01:00:00 AM 12-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Coventry City Football Club vs Preston North End F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140557_5489_CVC_PST_fc-web.jpg",
+            "team_1": "Coventry City Football Club",
+            "team_2": "Preston North End F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Coventry City Football Club vs Preston North End F.C.",
+            "match_id": 140557,
+            "startTime": "01:30:00 AM 12-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -368,18 +378,6 @@
             "startTime": "02:00:00 AM 10-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Argentina vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140710_5971_ARG_MEX_fc-Web.jpg",
-            "team_1": "Argentina",
-            "team_2": "Mexico",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-            "match_name": "Argentina vs Mexico",
-            "match_id": 140710,
-            "startTime": "01:00:00 AM 12-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al-Ittihad vs Al Wahda (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140859_5647_ITT_ALW_FC-Web_1772186975951.png",
@@ -402,18 +400,6 @@
             "match_name": "Al Hilal SFC vs Al Sadd",
             "match_id": 140858,
             "startTime": "11:45:00 PM 10-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Coventry City Football Club vs Preston North End F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140557_5489_CVC_PST_fc-web.jpg",
-            "team_1": "Coventry City Football Club",
-            "team_2": "Preston North End F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Coventry City Football Club vs Preston North End F.C.",
-            "match_id": 140557,
-            "startTime": "01:30:00 AM 12-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -461,6 +447,18 @@
             "event_name": "Bahrain tour of Malaysia, 2026",
             "match_name": "Malaysia vs Bahrain",
             "match_id": 141302,
+            "startTime": "07:00:00 AM 12-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "LA Galaxy vs Mount Pleasant FA (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141097_5954_LAG_MTP_1772957308849.png",
+            "team_1": "LA Galaxy",
+            "team_2": "Mount Pleasant FA",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "LA Galaxy vs Mount Pleasant FA",
+            "match_id": 141097,
             "startTime": "07:00:00 AM 12-03-2026"
         }
     ]
