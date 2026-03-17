@@ -1,63 +1,49 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:30:30 PM 17-03-2026",
+    "last update time": "04:32:44 PM 17-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
-            "team_1": "New Zealand",
-            "team_2": "South Africa",
-            "status": "LIVE",
-            "event_name": "South Africa tour of New Zealand, 2026",
-            "match_name": "New Zealand vs South Africa",
-            "match_id": 141062,
-            "startTime": "11:45:00 AM 17-03-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/master.m3u8?hdnea=exp=1773770946~acl=/*~id=74083786858051206737013589365506~hmac=e7a1e9d42370042c81ab9751c3b80af7ec9c734b04c68af9d3aa5d29acdba58c"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bengal Royals vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Bengal Royals",
-            "team_2": "Tamil Nadu Titans",
-            "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Bengal Royals vs Tamil Nadu Titans",
-            "match_id": 141206,
-            "startTime": "12:45:00 PM 17-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Betwa Blasters vs Yamuna Super Kings (Ayodhya Premier League)",
+            "title": "Yamuna Super Kings vs Betwa Blasters (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
-            "team_1": "Betwa Blasters",
-            "team_2": "Yamuna Super Kings",
+            "team_1": "Yamuna Super Kings",
+            "team_2": "Betwa Blasters",
             "status": "LIVE",
             "event_name": "Ayodhya Premier League",
-            "match_name": "Betwa Blasters vs Yamuna Super Kings",
+            "match_name": "Yamuna Super Kings vs Betwa Blasters",
             "match_id": 141367,
             "startTime": "01:30:00 PM 17-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Sydney FC vs Melbourne City (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1773733471726/140916_CASACARDS_APP.png",
-            "team_1": "Sydney FC",
-            "team_2": "Melbourne City",
+            "event_category": "Cricket",
+            "title": "Bengal Royals vs Chennai Warlords (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Bengal Royals",
+            "team_2": "Chennai Warlords",
             "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Melbourne City",
-            "match_id": 140916,
-            "startTime": "01:30:00 PM 17-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140916_english_hls_f436e9426f16006_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140916_english_hls_f436e9426f16006_1ta-di_h264/index.m3u8"
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Bengal Royals vs Chennai Warlords",
+            "match_id": 141207,
+            "startTime": "03:10:00 PM 17-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
+            "team_1": "China PR Women",
+            "team_2": "Australia Women",
+            "status": "LIVE",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "China PR Women vs Australia Women",
+            "match_id": 140816,
+            "startTime": "03:00:00 PM 17-03-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -73,30 +59,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bengal Royals vs Chennai Warlords (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Bengal Royals",
-            "team_2": "Chennai Warlords",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Bengal Royals vs Chennai Warlords",
-            "match_id": 141207,
-            "startTime": "03:10:00 PM 17-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
-            "team_1": "China PR Women",
-            "team_2": "Australia Women",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "China PR Women vs Australia Women",
-            "match_id": 140816,
-            "startTime": "03:00:00 PM 17-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Saryu Smashers vs Chambal Chargers (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg",
             "team_1": "Saryu Smashers",
@@ -106,6 +68,18 @@
             "match_name": "Saryu Smashers vs Chambal Chargers",
             "match_id": 141368,
             "startTime": "09:00:00 AM 18-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mumbai Maverics vs Chennai Warlords (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Mumbai Maverics",
+            "team_2": "Chennai Warlords",
+            "status": "UPCOMING",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Mumbai Maverics vs Chennai Warlords",
+            "match_id": 141208,
+            "startTime": "10:10:00 AM 18-03-2026"
         },
         {
             "event_category": "Football",
@@ -121,15 +95,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mumbai Maverics vs Chennai Warlords (Thunderbolt T10 League 2026)",
+            "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Mumbai Maverics",
-            "team_2": "Chennai Warlords",
+            "team_1": "Delhi Champions",
+            "team_2": "Tamil Nadu Titans",
             "status": "UPCOMING",
             "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Mumbai Maverics vs Chennai Warlords",
-            "match_id": 141208,
-            "startTime": "10:10:00 AM 18-03-2026"
+            "match_name": "Delhi Champions vs Tamil Nadu Titans",
+            "match_id": 141209,
+            "startTime": "12:45:00 PM 18-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Manorama Marvels vs Gomti Thunder (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg",
+            "team_1": "Manorama Marvels",
+            "team_2": "Gomti Thunder",
+            "status": "UPCOMING",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Manorama Marvels vs Gomti Thunder",
+            "match_id": 141369,
+            "startTime": "01:30:00 PM 18-03-2026"
         },
         {
             "event_category": "Football",
@@ -157,30 +143,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Delhi Champions",
-            "team_2": "Tamil Nadu Titans",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Delhi Champions vs Tamil Nadu Titans",
-            "match_id": 141209,
-            "startTime": "12:45:00 PM 18-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Manorama Marvels vs Gomti Thunder (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg",
-            "team_1": "Manorama Marvels",
-            "team_2": "Gomti Thunder",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Manorama Marvels vs Gomti Thunder",
-            "match_id": 141369,
-            "startTime": "01:30:00 PM 18-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Punjab Lions vs Chennai Warlords (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
             "team_1": "Punjab Lions",
@@ -190,6 +152,18 @@
             "match_name": "Punjab Lions vs Chennai Warlords",
             "match_id": 141210,
             "startTime": "03:10:00 PM 18-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Konark-Suryas-Odisha-vs-India-Tigers_web.jpg",
+            "team_1": "Konark Suryas Odisha",
+            "team_2": "India Tigers",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Konark Suryas Odisha vs India Tigers",
+            "match_id": 141313,
+            "startTime": "07:30:00 PM 18-03-2026"
         },
         {
             "event_category": "Football",
@@ -204,18 +178,6 @@
             "startTime": "02:00:00 PM 18-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1773729395604/141313_CASACARDS_APP.png",
-            "team_1": "Konark Suryas Odisha",
-            "team_2": "India Tigers",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Konark Suryas Odisha vs India Tigers",
-            "match_id": 141313,
-            "startTime": "07:30:00 PM 18-03-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Atlanta vs Los Angeles vs Florida (TGL Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
@@ -228,18 +190,6 @@
             "startTime": "04:00:00 AM 18-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs Boston",
-            "match_id": 139179,
-            "startTime": "06:30:00 AM 18-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -250,6 +200,18 @@
             "match_name": "Namibia vs Uganda",
             "match_id": 141446,
             "startTime": "05:30:00 PM 18-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Jupiter vs Boston",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Jupiter vs Boston",
+            "match_id": 139179,
+            "startTime": "06:30:00 AM 18-03-2026"
         },
         {
             "event_category": "Football",
@@ -290,7 +252,7 @@
         {
             "event_category": "Tennis",
             "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
             "team_1": "A Court Feed",
             "team_2": "Miami, United States",
             "status": "UPCOMING",
@@ -302,7 +264,7 @@
         {
             "event_category": "Tennis",
             "title": "World Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
             "team_1": "World Feed",
             "team_2": "Miami, United States",
             "status": "UPCOMING",
@@ -314,7 +276,7 @@
         {
             "event_category": "Tennis",
             "title": "G Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
             "team_1": "G Court Feed",
             "team_2": "Miami, United States",
             "status": "UPCOMING",
@@ -326,7 +288,7 @@
         {
             "event_category": "Tennis",
             "title": "F Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
             "team_1": "F Court Feed",
             "team_2": "Miami, United States",
             "status": "UPCOMING",
@@ -338,7 +300,7 @@
         {
             "event_category": "Tennis",
             "title": "D Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
             "team_1": "D Court Feed",
             "team_2": "Miami, United States",
             "status": "UPCOMING",
@@ -350,7 +312,7 @@
         {
             "event_category": "Tennis",
             "title": "C Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
             "team_1": "C Court Feed",
             "team_2": "Miami, United States",
             "status": "UPCOMING",
@@ -362,7 +324,7 @@
         {
             "event_category": "Tennis",
             "title": "B Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
             "team_1": "B Court Feed",
             "team_2": "Miami, United States",
             "status": "UPCOMING",
@@ -418,6 +380,42 @@
             "match_name": "Club Am\u00e9rica vs Philadelphia Union",
             "match_id": 141104,
             "startTime": "06:30:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ganga Warriors vs Yamuna Super Kings (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg",
+            "team_1": "Ganga Warriors",
+            "team_2": "Yamuna Super Kings",
+            "status": "UPCOMING",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Ganga Warriors vs Yamuna Super Kings",
+            "match_id": 141370,
+            "startTime": "09:00:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Uzbekistan Women",
+            "team_2": "Philippines Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Uzbekistan Women vs Philippines Women",
+            "match_id": 140818,
+            "startTime": "08:00:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Seattle Sounders FC vs Vancouver Whitecaps FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
+            "team_1": "Seattle Sounders FC",
+            "team_2": "Vancouver Whitecaps FC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Seattle Sounders FC vs Vancouver Whitecaps FC",
+            "match_id": 141106,
+            "startTime": "08:30:00 AM 19-03-2026"
         }
     ]
 }
