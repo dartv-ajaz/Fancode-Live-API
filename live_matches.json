@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:18:02 PM 20-04-2026",
+    "last update time": "08:39:14 PM 20-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141950_english_hls_94dbc5a8c343464_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "LIVE",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions vs Barbados Pride",
+            "match_id": 141951,
+            "startTime": "08:30:00 PM 19-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141951_english_hls_2bb96b873687008_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Punjab FC vs Inter Kashi (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140493_5956_PFC_KSHI_FC-Web_1772466287509.jpg",
@@ -44,18 +58,6 @@
             "startTime": "07:30:00 PM 20-04-2026",
             "dai_url": "https://dai-partner.fancode.com/primary/140493_english_hls_dc8dcea2dd24462_1ta-di_h264/index.m3u8",
             "adfree_url": "https://dai-partner.fancode.com/primary/140493_english_hls_dc8dcea2dd24462_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "PAUSED",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions vs Barbados Pride",
-            "match_id": 141951,
-            "startTime": "08:30:00 PM 19-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -144,7 +146,7 @@
         {
             "event_category": "Football",
             "title": "Machida Zelvia vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1776694825679.jpg",
             "team_1": "Machida Zelvia",
             "team_2": "Shabab Al Ahli",
             "status": "UPCOMING",
@@ -276,7 +278,7 @@
         {
             "event_category": "Football",
             "title": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
             "team_1": "Al-Nassr FC",
             "team_2": "Al Ahli (QAT)",
             "status": "UPCOMING",
@@ -408,7 +410,7 @@
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
             "team_1": "Main Feed - Day 1",
             "team_2": "TPC Louisiana - Avondale, Louisiana ",
             "status": "UPCOMING",
@@ -420,7 +422,7 @@
         {
             "event_category": "Golf",
             "title": "Featured Holes - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
             "team_1": "Featured Holes - Day 1",
             "team_2": "TPC Louisiana - Avondale, Louisiana ",
             "status": "UPCOMING",
@@ -432,7 +434,7 @@
         {
             "event_category": "Golf",
             "title": "Featured Groups - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
             "team_1": "Featured Groups - Day 1",
             "team_2": "TPC Louisiana - Avondale, Louisiana ",
             "status": "UPCOMING",
