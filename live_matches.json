@@ -1,35 +1,49 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:19:33 PM 06-06-2026",
+    "last update time": "08:40:45 PM 06-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "JB Bruges vs Akcel United Brussels (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
-            "team_1": "JB Bruges",
-            "team_2": "Akcel United Brussels",
-            "status": "LIVE",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "JB Bruges vs Akcel United Brussels",
-            "match_id": 143149,
-            "startTime": "04:00:00 PM 06-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143149_english_hls_289e870a8920654_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143149_english_hls_289e870a8920654_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mumbai Marines vs Northern Challengers (Big Cricket League Season 2)",
+            "title": "Northern Challengers vs Mumbai Marines (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg",
-            "team_1": "Mumbai Marines",
-            "team_2": "Northern Challengers",
+            "team_1": "Northern Challengers",
+            "team_2": "Mumbai Marines",
             "status": "LIVE",
             "event_name": "Big Cricket League Season 2",
-            "match_name": "Mumbai Marines vs Northern Challengers",
+            "match_name": "Northern Challengers vs Mumbai Marines",
             "match_id": 142990,
             "startTime": "07:00:00 PM 06-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142990_english_hls_bc5e7c28a633215_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142990_english_hls_bc5e7c28a633215_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Liege Red Lions vs Ghent Gladiators (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143150_6108_LRL_GG_FC-Web.png",
+            "team_1": "Liege Red Lions",
+            "team_2": "Ghent Gladiators",
+            "status": "LIVE",
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "Liege Red Lions vs Ghent Gladiators",
+            "match_id": 143150,
+            "startTime": "08:00:00 PM 06-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143150_english_hls_1cb216381c56847_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143150_english_hls_1cb216381c56847_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Canada vs USA (ICC CWC League 2 Canada, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg",
+            "team_1": "Canada",
+            "team_2": "USA",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2 Canada, 2026",
+            "match_name": "Canada vs USA",
+            "match_id": 143195,
+            "startTime": "08:00:00 PM 06-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -44,34 +58,6 @@
             "startTime": "07:30:00 PM 06-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143064_english_hls_30f3d99f9a60143_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143064_english_hls_30f3d99f9a60143_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bangladesh Women vs India Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_web_.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "India Women",
-            "status": "LIVE",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Bangladesh Women vs India Women",
-            "match_id": 142943,
-            "startTime": "06:30:00 PM 06-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Balaton (GRAND PRIX OF HUNGARY 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Balaton",
-            "status": "LIVE",
-            "event_name": "GRAND PRIX OF HUNGARY 2026",
-            "match_name": "Hungary GP",
-            "match_id": 139949,
-            "startTime": "12:10:00 PM 06-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139949_english_hls_e3638dc20393422_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139949_english_hls_e3638dc20393422_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -130,28 +116,32 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139450_english_hls_6df1a5676287932_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Liege Red Lions vs Ghent Gladiators (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143150_6108_LRL_GG_FC-Web.png",
-            "team_1": "Liege Red Lions",
-            "team_2": "Ghent Gladiators",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Liege Red Lions vs Ghent Gladiators",
-            "match_id": 143150,
-            "startTime": "08:00:00 PM 06-06-2026"
+            "event_category": "Golf",
+            "title": "Marquee Feed - Day 3 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+            "team_1": "Marquee Feed - Day 3",
+            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
+            "status": "LIVE",
+            "event_name": "the Memorial Tournament presented by Workday 2026",
+            "match_name": "Marquee Feed - Day 3",
+            "match_id": 143113,
+            "startTime": "08:30:00 PM 06-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143113_english_hls_64e26a4d1663220_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143113_english_hls_64e26a4d1663220_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Canada vs USA (ICC CWC League 2 Canada, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg",
-            "team_1": "Canada",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2 Canada, 2026",
-            "match_name": "Canada vs USA",
-            "match_id": 143195,
-            "startTime": "08:00:00 PM 06-06-2026"
+            "event_category": "Football",
+            "title": "Bangladesh Women vs India Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_web_.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "India Women",
+            "status": "LIVE",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Bangladesh Women vs India Women",
+            "match_id": 142943,
+            "startTime": "06:30:00 PM 06-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -239,18 +229,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gwalior Shernis vs Bundelkhand Bulls Women (Madhya Pradesh League T20 Women's 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Gwalior Shernis",
-            "team_2": "Bundelkhand Bulls Women",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Gwalior Shernis vs Bundelkhand Bulls Women",
-            "match_id": 143024,
-            "startTime": "09:30:00 AM 07-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "MP Tigers vs UP Brij Stars (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142992_6094_MPT_UPBS_FC-WEB_1780318028366.jpg",
             "team_1": "MP Tigers",
@@ -263,15 +241,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malwa Stallions vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1780469022406/143065_CASACARDS_APP.png",
-            "team_1": "Malwa Stallions",
-            "team_2": "Gwalior Cheetahs",
+            "title": "Gwalior Shernis vs Bundelkhand Bulls Women (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Gwalior Shernis",
+            "team_2": "Bundelkhand Bulls Women",
             "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Malwa Stallions vs Gwalior Cheetahs",
-            "match_id": 143065,
-            "startTime": "02:30:00 PM 07-06-2026"
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Gwalior Shernis vs Bundelkhand Bulls Women",
+            "match_id": 143024,
+            "startTime": "09:30:00 AM 07-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -284,6 +262,18 @@
             "match_name": "Antwerp Anchors vs Akcel United Brussels",
             "match_id": 143152,
             "startTime": "08:00:00 PM 07-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malwa Stallions vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1780469022406/143065_CASACARDS_APP.png",
+            "team_1": "Malwa Stallions",
+            "team_2": "Gwalior Cheetahs",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Malwa Stallions vs Gwalior Cheetahs",
+            "match_id": 143065,
+            "startTime": "02:30:00 PM 07-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -308,18 +298,6 @@
             "match_name": "Rewa Jaguars vs Bhopal Leopards",
             "match_id": 143067,
             "startTime": "07:30:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Feed - Day 3 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-            "team_1": "Marquee Feed - Day 3",
-            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
-            "status": "UPCOMING",
-            "event_name": "the Memorial Tournament presented by Workday 2026",
-            "match_name": "Marquee Feed - Day 3",
-            "match_id": 143113,
-            "startTime": "08:30:00 PM 06-06-2026"
         },
         {
             "event_category": "Golf",
@@ -370,6 +348,18 @@
             "startTime": "12:55:00 PM 07-06-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Morocco vs Norway (International Friendlies 2026)",
+            "src": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
+            "team_1": "Morocco",
+            "team_2": "Norway",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Morocco vs Norway",
+            "match_id": 143343,
+            "startTime": "12:30:00 AM 08-06-2026"
+        },
+        {
             "event_category": "Live Events",
             "title": "Grand Finale vs TBC (Indian Super Gaming League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
@@ -418,16 +408,16 @@
             "startTime": "03:15:00 PM 07-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Morocco vs Norway (International Friendlies 2026)",
-            "src": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
-            "team_1": "Morocco",
-            "team_2": "Norway",
+            "event_category": "Motorsports",
+            "title": "F1 Kids 2026 vs Monaco (F1 Kids 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Monaco",
             "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Morocco vs Norway",
-            "match_id": 143343,
-            "startTime": "12:30:00 AM 08-06-2026"
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids 2026",
+            "match_id": 143310,
+            "startTime": "06:25:00 PM 07-06-2026"
         }
     ]
 }
