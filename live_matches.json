@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:16:03 AM 09-06-2026",
+    "last update time": "01:18:54 PM 09-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png",
             "team_1": "Bangladesh",
             "team_2": "Australia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Australia tour of Bangladesh, 2026",
             "match_name": "Bangladesh vs Australia",
             "match_id": 142965,
-            "startTime": "10:30:00 AM 09-06-2026"
+            "startTime": "10:30:00 AM 09-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -64,18 +66,6 @@
             "startTime": "08:00:00 PM 09-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Argentina vs Iceland (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
-            "team_1": "Argentina",
-            "team_2": "Iceland",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Argentina vs Iceland",
-            "match_id": 143344,
-            "startTime": "06:30:00 AM 10-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ghent Gladiators vs Akcel United Brussels (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143157_6108_GG_AUB_FC-Web.png",
@@ -88,16 +78,16 @@
             "startTime": "12:00:00 PM 10-06-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Gwalior Shernis vs Royal Nimar Eagles Women (Madhya Pradesh League T20 Women's 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Gwalior Shernis",
-            "team_2": "Royal Nimar Eagles Women",
+            "event_category": "Football",
+            "title": "Argentina vs Iceland (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
+            "team_1": "Argentina",
+            "team_2": "Iceland",
             "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Gwalior Shernis vs Royal Nimar Eagles Women",
-            "match_id": 143026,
-            "startTime": "09:30:00 AM 10-06-2026"
+            "event_name": "International Friendlies 2026",
+            "match_name": "Argentina vs Iceland",
+            "match_id": 143344,
+            "startTime": "06:30:00 AM 10-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -112,28 +102,16 @@
             "startTime": "02:00:00 PM 10-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Netherlands (ATP 250 - Libema Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-            "team_1": "Day 2",
-            "team_2": "Netherlands",
+            "event_category": "Cricket",
+            "title": "Gwalior Shernis vs Royal Nimar Eagles Women (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Gwalior Shernis",
+            "team_2": "Royal Nimar Eagles Women",
             "status": "UPCOMING",
-            "event_name": "ATP 250 - Libema Open",
-            "match_name": "Day 2",
-            "match_id": 143126,
-            "startTime": "02:30:00 PM 09-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Stuttgart, Germany",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - BOSS OPEN 2026",
-            "match_name": "Day 2",
-            "match_id": 143119,
-            "startTime": "02:30:00 PM 09-06-2026"
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Gwalior Shernis vs Royal Nimar Eagles Women",
+            "match_id": 143026,
+            "startTime": "09:30:00 AM 10-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -170,6 +148,42 @@
             "match_name": "Bhopal Leopards vs Ujjain Falcons",
             "match_id": 143072,
             "startTime": "03:00:00 PM 10-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "Day 2",
+            "team_2": "Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "Day 2",
+            "match_id": 143126,
+            "startTime": "02:30:00 PM 09-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Stuttgart, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - BOSS OPEN 2026",
+            "match_name": "Day 2",
+            "match_id": 143119,
+            "startTime": "02:30:00 PM 09-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - Court 2 vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "Day 2 - Court 2",
+            "team_2": "Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "Day 2 - Court 2",
+            "match_id": 143350,
+            "startTime": "02:30:00 PM 09-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -386,18 +400,6 @@
             "match_name": "Day 1 - Main Feed",
             "match_id": 143202,
             "startTime": "04:30:00 PM 11-06-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 - Featured Groups vs TPC Toronto at Osprey Valley, Caledo, Ontario (RBC Canadian Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "team_1": "Day 1 - Featured Groups",
-            "team_2": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-            "status": "UPCOMING",
-            "event_name": "RBC Canadian Open 2026",
-            "match_name": "Day 1 - Featured Groups",
-            "match_id": 143205,
-            "startTime": "05:15:00 PM 11-06-2026"
         }
     ]
 }
