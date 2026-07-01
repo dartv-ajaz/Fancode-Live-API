@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:18:45 AM 01-07-2026",
+    "last update time": "09:41:29 AM 01-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
             "team_1": "Mills Cricket Club",
             "team_2": "RML Sports",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KPL Indo Nepal T20 2026",
             "match_name": "Mills Cricket Club vs RML Sports",
             "match_id": 143531,
-            "startTime": "08:45:00 AM 01-07-2026"
+            "startTime": "08:45:00 AM 01-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -65,18 +67,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-web_1782725012134.jpg",
-            "team_1": "Mis-e-Ainak Knights",
-            "team_2": "Speen Ghar Tigers",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
-            "match_id": 143583,
-            "startTime": "03:00:00 PM 01-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Itahari Super Kings vs KCC (KPL Indo Nepal T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
             "team_1": "Itahari Super Kings",
@@ -89,15 +79,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh vs Zimbabwe (Bangladesh tour of Zimbabwe, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Bangladesh_One-off-Test_2026_FC-WEB_1782576215289.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Zimbabwe",
-            "status": "PAUSED",
-            "event_name": "Bangladesh tour of Zimbabwe, 2026",
-            "match_name": "Bangladesh vs Zimbabwe",
-            "match_id": 143399,
-            "startTime": "01:00:00 PM 28-06-2026"
+            "title": "Mis-e-Ainak Knights vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-web_1782725012134.jpg",
+            "team_1": "Mis-e-Ainak Knights",
+            "team_2": "Speen Ghar Tigers",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Mis-e-Ainak Knights vs Speen Ghar Tigers",
+            "match_id": 143583,
+            "startTime": "03:00:00 PM 01-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -122,6 +112,18 @@
             "match_name": "Namibia vs Vidarbha",
             "match_id": 143628,
             "startTime": "01:00:00 PM 02-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Zimbabwe (Bangladesh tour of Zimbabwe, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Bangladesh_One-off-Test_2026_FC-WEB_1782576215289.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Bangladesh tour of Zimbabwe, 2026",
+            "match_name": "Bangladesh vs Zimbabwe",
+            "match_id": 143399,
+            "startTime": "01:00:00 PM 28-06-2026"
         },
         {
             "event_category": "Cricket",
