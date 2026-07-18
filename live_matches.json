@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:49:04 AM 18-07-2026",
+    "last update time": "01:50:19 PM 18-07-2026",
     "matches": [
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Spa-Francorchamps (F3 BELGIUM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Spa-Francorchamps",
+            "status": "LIVE",
+            "event_name": "F3 BELGIUM 2026",
+            "match_name": "Sprint Race",
+            "match_id": 139731,
+            "startTime": "01:30:00 PM 18-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/139731_english_hls_a8fdedd78d52655_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/139731_english_hls_a8fdedd78d52655_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Kandy Royals vs Dambulla Sixers (Lanka Premier League, 2026)",
@@ -38,30 +52,6 @@
             "match_name": "Dambulla Sixers vs Jaffna Kings",
             "match_id": 4246717,
             "startTime": "03:00:00 PM 19-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-            "team_1": "Zimbabwe",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh tour of Zimbabwe, 2026",
-            "match_name": "Zimbabwe vs Bangladesh",
-            "match_id": 143405,
-            "startTime": "04:00:00 PM 19-07-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Spa-Francorchamps (F3 BELGIUM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Spa-Francorchamps",
-            "status": "UPCOMING",
-            "event_name": "F3 BELGIUM 2026",
-            "match_name": "Sprint Race",
-            "match_id": 139731,
-            "startTime": "01:30:00 PM 18-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -100,6 +90,18 @@
             "startTime": "02:50:00 PM 18-07-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
+            "team_1": "Zimbabwe",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh tour of Zimbabwe, 2026",
+            "match_name": "Zimbabwe vs Bangladesh",
+            "match_id": 143405,
+            "startTime": "04:00:00 PM 19-07-2026"
+        },
+        {
             "event_category": "Formula 1",
             "title": "Practice 3 vs Belgium (F1 MOET & CHANDON BELGIAN GRAND PRIX 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
@@ -122,6 +124,30 @@
             "match_name": "Semi-Finals",
             "match_id": 143488,
             "startTime": "04:30:00 PM 18-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs New Zealand (New Zealand tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+            "team_1": "West Indies",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of West Indies, 2026",
+            "match_name": "West Indies vs New Zealand",
+            "match_id": 143606,
+            "startTime": "07:30:00 PM 19-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Colombo Kaps vs Kandy Royals (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg",
+            "team_1": "Colombo Kaps",
+            "team_2": "Kandy Royals",
+            "status": "UPCOMING",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Colombo Kaps vs Kandy Royals",
+            "match_id": 4246712,
+            "startTime": "07:30:00 PM 19-07-2026"
         },
         {
             "event_category": "Golf",
@@ -182,30 +208,6 @@
             "match_name": "Finals",
             "match_id": 143502,
             "startTime": "10:30:00 PM 18-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs New Zealand (New Zealand tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-            "team_1": "West Indies",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "New Zealand tour of West Indies, 2026",
-            "match_name": "West Indies vs New Zealand",
-            "match_id": 143606,
-            "startTime": "07:30:00 PM 19-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Colombo Kaps vs Kandy Royals (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg",
-            "team_1": "Colombo Kaps",
-            "team_2": "Kandy Royals",
-            "status": "UPCOMING",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps vs Kandy Royals",
-            "match_id": 4246712,
-            "startTime": "07:30:00 PM 19-07-2026"
         },
         {
             "event_category": "Live Events",
