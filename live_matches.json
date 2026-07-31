@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:14:04 AM 31-07-2026",
+    "last update time": "12:16:00 PM 31-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan Women vs Sri Lanka Women (Pakistan Women's tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
+            "team_1": "Pakistan Women",
+            "team_2": "Sri Lanka Women",
+            "status": "LIVE",
+            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
+            "match_name": "Pakistan Women vs Sri Lanka Women",
+            "match_id": 4247428,
+            "startTime": "10:00:00 AM 31-07-2026",
+            "dai_url": "https://livecf.fancode.com/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Day 4 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
@@ -16,18 +30,6 @@
             "startTime": "06:30:00 AM 31-07-2026",
             "dai_url": "https://livecf.fancode.com/143519_english_hls_02620e0da644204_1ta-di_h264/index.m3u8",
             "adfree_url": "https://livecf.fancode.com/143519_english_hls_02620e0da644204_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka Women vs Pakistan Women",
-            "match_id": 4247428,
-            "startTime": "10:00:00 AM 31-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -126,28 +128,16 @@
             "startTime": "01:30:00 PM 01-08-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-            "team_1": "ATP 500 - Mubadala DC Open 2026",
-            "team_2": "Washington, United States",
+            "event_category": "Cricket",
+            "title": "Sri Lankan Lions vs Bangladesh Tigers (Asian Legends League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg",
+            "team_1": "Sri Lankan Lions",
+            "team_2": "Bangladesh Tigers",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_id": 143649,
-            "startTime": "02:30:00 PM 31-07-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-            "team_1": "ATP 500 - Mubadala DC Open 2026",
-            "team_2": "Washington, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_id": 143648,
-            "startTime": "02:30:00 PM 31-07-2026"
+            "event_name": "Asian Legends League, 2026",
+            "match_name": "Sri Lankan Lions vs Bangladesh Tigers",
+            "match_id": 4248193,
+            "startTime": "05:00:00 PM 01-08-2026"
         },
         {
             "event_category": "Golf",
@@ -160,6 +150,30 @@
             "match_name": "Main Feed - Day 2",
             "match_id": 4248046,
             "startTime": "04:30:00 PM 31-07-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+            "team_1": "ATP 500 - Mubadala DC Open 2026",
+            "team_2": "Washington, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Mubadala DC Open 2026",
+            "match_name": "ATP 500 - Mubadala DC Open 2026",
+            "match_id": 143648,
+            "startTime": "11:30:00 PM 31-07-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chelsea vs Tottenham Hotspur (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
+            "team_1": "Chelsea",
+            "team_2": "Tottenham Hotspur",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Chelsea vs Tottenham Hotspur",
+            "match_id": 4248013,
+            "startTime": "03:15:00 PM 01-08-2026"
         },
         {
             "event_category": "Golf",
@@ -175,42 +189,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lankan Lions vs Bangladesh Tigers (Asian Legends League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg",
-            "team_1": "Sri Lankan Lions",
-            "team_2": "Bangladesh Tigers",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2026",
-            "match_name": "Sri Lankan Lions vs Bangladesh Tigers",
-            "match_id": 4248193,
-            "startTime": "05:00:00 PM 01-08-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chelsea vs Tottenham Hotspur (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
-            "team_1": "Chelsea",
-            "team_2": "Tottenham Hotspur",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Chelsea vs Tottenham Hotspur",
-            "match_id": 4248013,
-            "startTime": "03:15:00 PM 01-08-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 5 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-            "team_1": "Day 5",
-            "team_2": "Mexico",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-            "match_name": "Day 5",
-            "match_id": 143520,
-            "startTime": "08:00:00 AM 01-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
             "team_1": "West Delhi Lions",
@@ -220,6 +198,18 @@
             "match_name": "West Delhi Lions vs New Delhi Tigers",
             "match_id": 4247967,
             "startTime": "07:00:00 PM 01-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Colombo Kaps vs Galle Gallants (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246729_52991_CK_GG_FC-WEB.jpg",
+            "team_1": "Colombo Kaps",
+            "team_2": "Galle Gallants",
+            "status": "UPCOMING",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Colombo Kaps vs Galle Gallants",
+            "match_id": 4246729,
+            "startTime": "07:30:00 PM 01-08-2026"
         },
         {
             "event_category": "Football",
@@ -234,16 +224,16 @@
             "startTime": "05:00:00 PM 01-08-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Colombo Kaps vs Galle Gallants (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246729_52991_CK_GG_FC-WEB.jpg",
-            "team_1": "Colombo Kaps",
-            "team_2": "Galle Gallants",
+            "event_category": "Tennis",
+            "title": "Day 5 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
+            "team_1": "Day 5",
+            "team_2": "Mexico",
             "status": "UPCOMING",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Colombo Kaps vs Galle Gallants",
-            "match_id": 4246729,
-            "startTime": "07:30:00 PM 01-08-2026"
+            "event_name": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
+            "match_name": "Day 5",
+            "match_id": 143520,
+            "startTime": "08:00:00 AM 01-08-2026"
         },
         {
             "event_category": "Football",
@@ -460,6 +450,18 @@
             "match_name": "ATP 500 - Mubadala DC Open 2026",
             "match_id": 143652,
             "startTime": "02:30:00 PM 02-08-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "Detroit Golf Club - Detroit, Michigan",
+            "status": "UPCOMING",
+            "event_name": "Rocket Classic 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 4248050,
+            "startTime": "05:00:00 PM 02-08-2026"
         }
     ]
 }
